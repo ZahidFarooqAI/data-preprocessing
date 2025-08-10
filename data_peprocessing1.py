@@ -31,9 +31,10 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
 print(df)
 #output
-Age  Gender    Salary
+    Age         Gender   Salary
 0  25.000000       1  0.000000
 1  33.333333       0  0.333333
 2  35.000000       0  0.541667
 3  40.000000       1  1.000000
 4  33.333333       0  0.833333
+
